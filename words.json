@@ -1,0 +1,362 @@
+[
+  {
+    "word": "absolutely",
+    "translation": "абсолютно",
+    "transcription": "/ˈæb.sə.luːt.li/",
+    "sentence": "I absolutely agree with you."
+  },
+  {
+    "word": "achievement",
+    "translation": "достижение",
+    "transcription": "/əˈtʃiːv.mənt/",
+    "sentence": "Winning the prize was a great achievement."
+  },
+  {
+    "word": "actually",
+    "translation": "на самом деле",
+    "transcription": "/ˈæk.tʃu.ə.li/",
+    "sentence": "Actually, I don't know the answer."
+  },
+  {
+    "word": "advantage",
+    "translation": "преимущество",
+    "transcription": "/ədˈvɑːn.tɪdʒ/",
+    "sentence": "Speed is a big advantage."
+  },
+  {
+    "word": "adventure",
+    "translation": "приключение",
+    "transcription": "/ədˈven.tʃər/",
+    "sentence": "We had an amazing adventure."
+  },
+  {
+    "word": "afternoon",
+    "translation": "после полудня",
+    "transcription": "/ˌɑːf.təˈnuːn/",
+    "sentence": "Let's meet in the afternoon."
+  },
+  {
+    "word": "agreement",
+    "translation": "соглашение",
+    "transcription": "/əˈɡriː.mənt/",
+    "sentence": "They signed the agreement."
+  },
+  {
+    "word": "ambulance",
+    "translation": "скорая помощь",
+    "transcription": "/ˈæm.bjə.ləns/",
+    "sentence": "Call an ambulance immediately."
+  },
+  {
+    "word": "animal",
+    "translation": "животное",
+    "transcription": "/ˈæn.ɪ.məl/",
+    "sentence": "The animal is sleeping."
+  },
+  {
+    "word": "apartment",
+    "translation": "квартира",
+    "transcription": "/əˈpɑːt.mənt/",
+    "sentence": "She rents a small apartment."
+  },
+  {
+    "word": "attention",
+    "translation": "внимание",
+    "transcription": "/əˈten.ʃən/",
+    "sentence": "Pay attention to the details."
+  },
+  {
+    "word": "authority",
+    "translation": "власть",
+    "transcription": "/ɔːˈθɒr.ə.ti/",
+    "sentence": "The local authority made a decision."
+  },
+  {
+    "word": "beautiful",
+    "translation": "красивый",
+    "transcription": "/ˈbjuː.tɪ.fəl/",
+    "sentence": "What a beautiful day!"
+  },
+  {
+    "word": "behavior",
+    "translation": "поведение",
+    "transcription": "/bɪˈheɪ.vjər/",
+    "sentence": "His behavior was strange."
+  },
+  {
+    "word": "benefit",
+    "translation": "выгода",
+    "transcription": "/ˈben.ɪ.fɪt/",
+    "sentence": "Exercise has many benefits."
+  },
+  {
+    "word": "birthday",
+    "translation": "день рождения",
+    "transcription": "/ˈbɜːθ.deɪ/",
+    "sentence": "Happy birthday to you!"
+  },
+  {
+    "word": "business",
+    "translation": "бизнес",
+    "transcription": "/ˈbɪz.nɪs/",
+    "sentence": "She runs her own business."
+  },
+  {
+    "word": "celebration",
+    "translation": "празднование",
+    "transcription": "/ˌsel.ɪˈbreɪ.ʃən/",
+    "sentence": "The celebration lasted all night."
+  },
+  {
+    "word": "challenge",
+    "translation": "вызов",
+    "transcription": "/ˈtʃæl.ɪndʒ/",
+    "sentence": "This task is a real challenge."
+  },
+  {
+    "word": "character",
+    "translation": "характер",
+    "transcription": "/ˈkær.ək.tər/",
+    "sentence": "He has a strong character."
+  },
+  {
+    "word": "comfortable",
+    "translation": "удобный",
+    "transcription": "/ˈkʌmf.tə.bəl/",
+    "sentence": "This chair is very comfortable."
+  },
+  {
+    "word": "communication",
+    "translation": "общение",
+    "transcription": "/kəˌmjuː.nɪˈkeɪ.ʃən/",
+    "sentence": "Good communication is important."
+  },
+  {
+    "word": "community",
+    "translation": "сообщество",
+    "transcription": "/kəˈmjuː.nə.ti/",
+    "sentence": "Our community is very friendly."
+  },
+  {
+    "word": "competition",
+    "translation": "соревнование",
+    "transcription": "/ˌkɒm.pəˈtɪʃ.ən/",
+    "sentence": "She won the competition."
+  },
+  {
+    "word": "completely",
+    "translation": "полностью",
+    "transcription": "/kəmˈpliːt.li/",
+    "sentence": "I completely forgot about it."
+  },
+  {
+    "word": "confidence",
+    "translation": "уверенность",
+    "transcription": "/ˈkɒn.fɪ.dəns/",
+    "sentence": "He lacks confidence in himself."
+  },
+  {
+    "word": "connection",
+    "translation": "соединение",
+    "transcription": "/kəˈnek.ʃən/",
+    "sentence": "The internet connection is slow."
+  },
+  {
+    "word": "conversation",
+    "translation": "разговор",
+    "transcription": "/ˌkɒn.vəˈseɪ.ʃən/",
+    "sentence": "We had a long conversation."
+  },
+  {
+    "word": "decision",
+    "translation": "решение",
+    "transcription": "/dɪˈsɪʒ.ən/",
+    "sentence": "It was a difficult decision."
+  },
+  {
+    "word": "delicious",
+    "translation": "вкусный",
+    "transcription": "/dɪˈlɪʃ.əs/",
+    "sentence": "The cake was delicious."
+  },
+  {
+    "word": "different",
+    "translation": "другой",
+    "transcription": "/ˈdɪf.ər.ənt/",
+    "sentence": "They are very different people."
+  },
+  {
+    "word": "difficult",
+    "translation": "трудный",
+    "transcription": "/ˈdɪf.ɪ.kəlt/",
+    "sentence": "This question is difficult."
+  },
+  {
+    "word": "direction",
+    "translation": "направление",
+    "transcription": "/dɪˈrek.ʃən/",
+    "sentence": "We are going in the wrong direction."
+  },
+  {
+    "word": "education",
+    "translation": "образование",
+    "transcription": "/ˌedʒ.ʊˈkeɪ.ʃən/",
+    "sentence": "Education is important for everyone."
+  },
+  {
+    "word": "elephant",
+    "translation": "слон",
+    "transcription": "/ˈel.ɪ.fənt/",
+    "sentence": "The elephant is a huge animal."
+  },
+  {
+    "word": "emergency",
+    "translation": "чрезвычайная ситуация",
+    "transcription": "/ɪˈmɜː.dʒən.si/",
+    "sentence": "In an emergency, call 911."
+  },
+  {
+    "word": "environment",
+    "translation": "окружающая среда",
+    "transcription": "/ɪnˈvaɪ.rən.mənt/",
+    "sentence": "We must protect the environment."
+  },
+  {
+    "word": "everything",
+    "translation": "всё",
+    "transcription": "/ˈev.ri.θɪŋ/",
+    "sentence": "Everything is going to be fine."
+  },
+  {
+    "word": "experience",
+    "translation": "опыт",
+    "transcription": "/ɪkˈspɪə.ri.əns/",
+    "sentence": "She has a lot of experience."
+  },
+  {
+    "word": "explanation",
+    "translation": "объяснение",
+    "transcription": "/ˌek.spləˈneɪ.ʃən/",
+    "sentence": "Thank you for the explanation."
+  },
+  {
+    "word": "family",
+    "translation": "семья",
+    "transcription": "/ˈfæm.əl.i/",
+    "sentence": "My family lives in Moscow."
+  },
+  {
+    "word": "favorite",
+    "translation": "любимый",
+    "transcription": "/ˈfeɪ.vər.ɪt/",
+    "sentence": "This is my favorite song."
+  },
+  {
+    "word": "festival",
+    "translation": "фестиваль",
+    "transcription": "/ˈfes.tɪ.vəl/",
+    "sentence": "The music festival was amazing."
+  },
+  {
+    "word": "freedom",
+    "translation": "свобода",
+    "transcription": "/ˈfriː.dəm/",
+    "sentence": "Freedom is important."
+  },
+  {
+    "word": "friendship",
+    "translation": "дружба",
+    "transcription": "/ˈfrend.ʃɪp/",
+    "sentence": "Our friendship is strong."
+  },
+  {
+    "word": "furniture",
+    "translation": "мебель",
+    "transcription": "/ˈfɜː.nɪ.tʃər/",
+    "sentence": "We bought new furniture."
+  },
+  {
+    "word": "generation",
+    "translation": "поколение",
+    "transcription": "/ˌdʒen.əˈreɪ.ʃən/",
+    "sentence": "The younger generation loves technology."
+  },
+  {
+    "word": "government",
+    "translation": "правительство",
+    "transcription": "/ˈɡʌv.ən.mənt/",
+    "sentence": "The government announced new rules."
+  },
+  {
+    "word": "happiness",
+    "translation": "счастье",
+    "transcription": "/ˈhæp.i.nəs/",
+    "sentence": "Money cannot buy happiness."
+  },
+  {
+    "word": "history",
+    "translation": "история",
+    "transcription": "/ˈhɪs.tər.i/",
+    "sentence": "I love reading history."
+  },
+  {
+    "word": "holiday",
+    "translation": "праздник",
+    "transcription": "/ˈhɒl.ə.deɪ/",
+    "sentence": "We are going on holiday next week."
+  },
+  {
+    "word": "hospital",
+    "translation": "больница",
+    "transcription": "/ˈhɒs.pɪ.təl/",
+    "sentence": "She works at the hospital."
+  },
+  {
+    "word": "imagination",
+    "translation": "воображение",
+    "transcription": "/ɪˌmædʒ.ɪˈneɪ.ʃən/",
+    "sentence": "Children have a vivid imagination."
+  },
+  {
+    "word": "important",
+    "translation": "важный",
+    "transcription": "/ɪmˈpɔː.tənt/",
+    "sentence": "This is an important message."
+  },
+  {
+    "word": "information",
+    "translation": "информация",
+    "transcription": "/ˌɪn.fəˈmeɪ.ʃən/",
+    "sentence": "I need more information."
+  },
+  {
+    "word": "interesting",
+    "translation": "интересный",
+    "transcription": "/ˈɪn.trəs.tɪŋ/",
+    "sentence": "The book is very interesting."
+  },
+  {
+    "word": "knowledge",
+    "translation": "знание",
+    "transcription": "/ˈnɒl.ɪdʒ/",
+    "sentence": "Knowledge is power."
+  },
+  {
+    "word": "language",
+    "translation": "язык",
+    "transcription": "/ˈlæŋ.ɡwɪdʒ/",
+    "sentence": "English is a global language."
+  },
+  {
+    "word": "medicine",
+    "translation": "лекарство",
+    "transcription": "/ˈmed.ɪ.sən/",
+    "sentence": "Take your medicine after lunch."
+  },
+  {
+    "word": "memory",
+    "translation": "память",
+    "transcription": "/ˈmem.ər.i/",
+    "sentence": "I have a bad memory for names."
+  }
+]

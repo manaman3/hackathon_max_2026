@@ -1,0 +1,5 @@
+maxapi>=1.2.1
+faster-whisper>=1.1.0
+aiohttp>=3.12.14
+openai
+python-dotenv>=1.0.0
